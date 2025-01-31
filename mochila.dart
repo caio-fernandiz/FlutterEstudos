@@ -31,7 +31,7 @@ void main() {
       }
     } else if (escolha == "2") {
       print("Aqui estão todos os itens que você inseriu\n $itens\n\n");
-    } else if (escolha == "3") {
+    } else if (escolha == "3" || escolha == "sair") {
       encerra = 2;
     }
   } while (encerra != 2);

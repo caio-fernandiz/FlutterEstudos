@@ -10,7 +10,7 @@ void main(List<String> args) {
       print("Segundou");
       break;
 
-    case 2:
+    case 2 || 3 || 4:
       print("bora trabalhar");
       break;
 
