@@ -1,0 +1,10 @@
+1 Escreva um programa que receba um número e use um if para verificar se ele é positivo.
+2 Faça um programa que verifica se um número é par ou ímpar.
+3 Crie um programa que verifica se uma pessoa é maior de idade com base na idade informada.
+4 Verifique se um número está dentro de um intervalo (exemplo: entre 10 e 20).
+5 Escreva um programa que leia dois números e verifique qual é o maior.
+6 Use um if para verificar se uma string contém mais de 5 caracteres.
+7 Faça um programa que leia a temperatura e diga se está frio (abaixo de 15 graus).
+8 Verifique se uma senha digitada pelo usuário está correta.
+9 Receba um número e diga se ele é divisível por 5 ou não.
+10 Crie um programa que valide se um número digitado é um ano bissexto.
