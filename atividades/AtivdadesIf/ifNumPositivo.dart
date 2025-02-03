@@ -13,7 +13,7 @@ void main(List<String> args) {
       print("O número é negativo");
     }
 
-    stdout.write("Deseja continua? \nY/N: ");
+    stdout.write("\nDeseja continua? \nY/N: ");
     escolha = stdin.readLineSync();
-  } while (escolha != "N" && escolha != "n");
+  } while (escolha != "N");
 }

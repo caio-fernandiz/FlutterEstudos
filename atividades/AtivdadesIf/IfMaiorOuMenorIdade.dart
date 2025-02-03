@@ -4,6 +4,7 @@ void main(List<String> args) {
   int idade;
   String? escolha;
   do {
+    stdout.write("digite sua idade: ");
     idade = int.parse(stdin.readLineSync()!);
 
     if (idade < 18) {
@@ -12,7 +13,7 @@ void main(List<String> args) {
       print("Maior de idade");
     }
 
-    stdout.write("Deseja continuar? Y/N: ");
+    stdout.write("\nDeseja continuar? Y/N: ");
     escolha = stdin.readLineSync();
-  } while (escolha != "N" && escolha != "n");
+  } while (escolha != "N");
 }

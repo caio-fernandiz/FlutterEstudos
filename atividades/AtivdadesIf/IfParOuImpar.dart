@@ -16,7 +16,7 @@ void main(List<String> args) {
       print("número é impár");
     }
 
-    stdout.write("Deseja continuar? Y/N: ");
+    stdout.write("\nDeseja continuar? Y/N: ");
     escolha = stdin.readLineSync();
-  } while (escolha != "N" && escolha != "n");
+  } while (escolha != "N");
 }
