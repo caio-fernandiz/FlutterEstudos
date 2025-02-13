@@ -1,0 +1,10 @@
+Crie um programa que percorra um list e exiba todos os elementos.
+Itere sobre um objeto e mostre todas as chaves.
+Liste os valores de um objeto (exemplo: um dicionário em Python).
+Faça um programa que percorra um list e calcule a soma de seus elementos.
+Itere sobre um list de strings e exiba as strings em letras maiúsculas.
+Crie um programa que conta quantos elementos de um list são números pares.
+Imprima o índice e o valor de cada elemento em um list.
+Valide se uma lista contém algum elemento específico.
+Inverta os valores de um list em um novo list (usando for-in).
+Percorra um objeto e mostre chaves e valores na tela.
